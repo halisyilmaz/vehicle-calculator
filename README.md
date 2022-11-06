@@ -1,6 +1,6 @@
 # VehicleCalculator
 
-## This project is discontinued! 
+## New version available! 
 New version of vehicle calculator is being developed with WPF and more features. Link: https://github.com/halisyilmaz/vehicle-calculator-v2
 ### V2 Features:
 - WPF Application
